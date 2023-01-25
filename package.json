@@ -13,6 +13,9 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "clean": "gatsby clean"
   },
+  "engines": {
+    "node": "12"
+  },
   "dependencies": {
     "browser-lang": "^0.1.0",
     "gatsby": "^2.4.2",
