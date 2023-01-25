@@ -14,7 +14,7 @@
     "clean": "gatsby clean"
   },
   "engines": {
-    "node": "12"
+    "node": "12.x"
   },
   "dependencies": {
     "browser-lang": "^0.1.0",
